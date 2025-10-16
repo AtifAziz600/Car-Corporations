@@ -39,7 +39,7 @@ const cars = [
         image: "/images/Rav4.jpeg",
         price: "$32,450",
         mileage: "18,240 mi",
-        condition: "USED",
+        condition: "Condition",
         fuel: "Hybrid",
         transmission: "Automatic",
         features: ["AWD", "Sunroof", "Leather Seats"]
@@ -53,7 +53,7 @@ const cars = [
         image: "/images/cross 1.jpeg",
         price: "$28,900",
         mileage: "12,150 mi",
-        condition: "USED",
+        condition: "Condition",
         fuel: "Gasoline",
         transmission: "CVT",
         features: ["Safety Sense", "Touchscreen", "Backup Camera"]
@@ -67,7 +67,7 @@ const cars = [
         image: "/images/Harrier.jpeg",
         price: "$36,750",
         mileage: "22,405 mi",
-        condition: "USED",
+        condition: "Condition",
         fuel: "Hybrid",
         transmission: "Automatic",
         features: ["Panoramic Roof", "JBL Audio", "Heated Seats"]
@@ -81,7 +81,7 @@ const cars = [
         image: "/images/toyotacorollacross.jpeg",
         price: "$29,500",
         mileage: "15,670 mi",
-        condition: "USED",
+        condition: "Condition",
         fuel: "Gasoline",
         transmission: "CVT",
         features: ["Apple CarPlay", "Lane Assist", "LED Headlights"]
@@ -95,7 +95,7 @@ const cars = [
         image: "/images/crossred.jpeg",
         price: "$26,800",
         mileage: "30,120 mi",
-        condition: "USED",
+        condition: "Condition",
         fuel: "Gasoline",
         transmission: "Automatic",
         features: ["Bluetooth", "Cruise Control", "Push Start"]
@@ -109,7 +109,7 @@ const cars = [
         image: "/images/civik2.png",
         price: "$23,900",
         mileage: "35,405 mi",
-        condition: "USED",
+        condition: "Condition",
         fuel: "Gasoline",
         transmission: "CVT",
         features: ["Turbo Engine", "Sport Mode", "Touchscreen"]

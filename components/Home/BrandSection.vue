@@ -1,12 +1,13 @@
 <script setup>
 const brands = [
-  { name: "honda", logo: "/images/honda.png" },
+  { name: "Honda", logo: "/images/honda.png" },
   { name: "Toyota", logo: "/images/Toyota.png" },
   { name: "Suzuki", logo: "/images/suzuki.png" },
   { name: "Nissan", logo: "/images/Nissan.png" },
-  { name: "Volkswagen", logo: "/images/Volkswagen.png" },
-  { name: "Mahindra", logo: "/images/Mahindra.png" },
-  { name: "Hyundai", logo: "/images/Hyundai.png" },
+  { name: "Mazda", logo: "/images/Mazda-Logo.png" },
+  { name: "Subaru", logo: "/images/Subaru.png" },
+  { name: "Mitsubishi", logo: "/images/Mitsubishi-Logo-1914.png" },
+  { name: "Lexus", logo: "/images/Lexus-Logo.png" },
 ];
 </script>
 

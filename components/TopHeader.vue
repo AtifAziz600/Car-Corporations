@@ -22,7 +22,7 @@ const currencies = ["BDT", "USD", "EUR", "GBP"];
 
         <div class="flex items-center gap-2 hover:text-blue-400 transition-colors group">
           <Icon name="mdi:clock-outline" class="text-lg text-primary group-hover:scale-110 transition-transform" />
-          <span>Working Hours: <span class="font-medium text-white">9AM - 11PM</span></span>
+          <span>Showroom Open: <span class="font-medium text-white">9AM - 11PM</span></span>
         </div>
       </div>
 
@@ -30,17 +30,17 @@ const currencies = ["BDT", "USD", "EUR", "GBP"];
       <div class="flex items-center space-x-5">
         <!-- Social Icons -->
         <div class="flex items-center space-x-4">
-          <a href="#" class="text-primary hover:text-blue-400 transition-colors" aria-label="Facebook">
-            <Icon name="mdi:facebook" class="text-lg hover:scale-110 transition-transform" />
+          <a href="#" class="hover:text-blue-400 transition-colors" aria-label="Facebook">
+            <Icon name="logos:facebook" class="text-lg hover:scale-110 transition-transform" />
           </a>
-          <a href="#" class="text-primary hover:text-pink-400 transition-colors" aria-label="Instagram">
-            <Icon name="mdi:instagram" class="text-lg hover:scale-110 transition-transform" />
+          <a href="#" class="hover:text-pink-400 transition-colors" aria-label="Instagram">
+            <Icon name="skill-icons:instagram" class="text-lg hover:scale-110 transition-transform" />
           </a>
-          <a href="#" class="text-primary hover:text-blue-400 transition-colors" aria-label="Twitter">
-            <Icon name="mdi:twitter" class="text-lg hover:scale-110 transition-transform" />
+          <a href="#" class="hover:text-blue-400 transition-colors" aria-label="Twitter">
+            <Icon name="devicon:linkedin" class="text-lg hover:scale-110 transition-transform" />
           </a>
-          <a href="#" class="text-primary hover:text-red-400 transition-colors" aria-label="YouTube">
-            <Icon name="mdi:youtube" class="text-lg hover:scale-110 transition-transform" />
+          <a href="#" class="hover:text-red-400 transition-colors" aria-label="YouTube">
+            <Icon name="logos:youtube-icon" class="text-lg hover:scale-110 transition-transform" />
           </a>
         </div>
 

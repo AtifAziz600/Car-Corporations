@@ -12,7 +12,7 @@ const cars = [
     image: "/images/Rav4.jpeg",
     price: "$32,450",
     mileage: "18,240 mi",
-    condition: "Used"
+    // condition: "Used"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const cars = [
     image: "/images/cross 1.jpeg",
     price: "$28,900",
     mileage: "12,150 mi",
-    condition: "New"
+    // condition: "New"
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ const cars = [
     image: "/images/crossred.jpeg",
     price: "$26,800",
     mileage: "30,120 mi",
-    condition: "New"
+    // condition: "New"
   },
   {
     id: 5,
@@ -56,7 +56,7 @@ const cars = [
     image: "/images/toyotacorollacross.jpeg",
     price: "$29,500",
     mileage: "15,670 mi",
-    condition: "New"
+    // condition: "New"
   },
   {
     id: 6,
@@ -67,7 +67,7 @@ const cars = [
     image: "/images/noah.jpeg",
     price: "$31,200",
     mileage: "25,890 mi",
-    condition: "Used"
+    // condition: "Used"
   },
   {
     id: 7,
@@ -78,7 +78,7 @@ const cars = [
     image: "/images/civik2.png",
     price: "$23,900",
     mileage: "35,405 mi",
-    condition: "New"
+    // condition: "New"
   },
 ];
 

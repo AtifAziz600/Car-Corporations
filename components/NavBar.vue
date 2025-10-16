@@ -47,7 +47,7 @@ const menus = [
     <div class="container mx-auto">
       <div class="flex items-center justify-between h-20">
         <NuxtLink to="/" class="flex items-center group relative">
-          <img src="/images/logo.jpg" alt="CarCorporation BD" class="h-auto w-12 rounded-full" />
+          <img src="/images/logo.jpg" alt="CarCorporation BD" class="h-auto rounded-full w-16 " />
         </NuxtLink>
         <nav class="hidden lg:flex items-center space-x-1">
           <div v-for="(menu, index) in menus" :key="index" @mouseenter="activeMenu = index"

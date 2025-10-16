@@ -12,7 +12,7 @@ const cars = [
     image: "/images/Rav4.jpeg",
     price: "32,450",
     mileage: "18,240 mi",
-    condition: "Used"
+    condition: "Condition"
   },
   {
     id: 2,
@@ -67,7 +67,7 @@ const cars = [
     image: "/images/noah.jpeg",
     price: "31,200",
     mileage: "25,890 mi",
-    condition: "Used"
+    condition: "Condition"
   },
   {
     id: 7,
